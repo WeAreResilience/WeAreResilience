@@ -4,28 +4,26 @@
   <img src="https://we-are-resilience.com/opengraph-image" alt="RESILIENCE Agentic Solutions" width="100%">
 </p>
 
-**Senior engineering on demand.** Real engineering. Real intelligence. Built to endure.
+**Written with you. We stay on it. Built to endure.**
 
-A Miami senior engineering practice. Custom software, websites and apps, autonomous agents, on-chain systems, and search & answer growth — written from a blank repository, with security treated as a build-time concern.
+A Miami senior engineering practice. Custom software, websites and apps, agents that staff the operation around the clock, automated marketing, and personal data removal — written from a blank repository, with security treated as a build-time concern.
 
 [we-are-resilience.com](https://we-are-resilience.com) · [Services](https://we-are-resilience.com/services) · [Work](https://we-are-resilience.com/work) · [Pricing](https://we-are-resilience.com/pricing) · [Contact](https://we-are-resilience.com/contact)
 
 ## Practice
 
-- **[Software Development](https://we-are-resilience.com/services/software-development)** — custom software, internal tools, APIs and integrations, written from a blank repository. Includes AI-built codebase rescue and quote-gated external exposure work.
-- **[Websites & Apps](https://we-are-resilience.com/services/websites-and-apps)** — website design and deployment, mobile and desktop applications, and monthly managed website care.
-- **[Agentic AI & Automation](https://we-are-resilience.com/services/agentic-ai)** — custom autonomous agents that plug into the tools clients already use, plus workflow automation.
-- **[Blockchain & Smart Contracts](https://we-are-resilience.com/services/blockchain)** — engineering, audits, consulting, and on-chain forensics. No tokens. No managed money. No return claims.
-- **[Search, Answers & Growth](https://we-are-resilience.com/services/search-and-growth)** — answer-engine optimization, technical SEO, citations, an organic growth retainer, and custom marketing software. No ranking guarantees.
+- **[Software Development](https://we-are-resilience.com/services/software-development)** — custom software written around how the operation should run. Internal tools, workflows, APIs, and integrations, from a blank repository. An app already in production gets a written audit, then an outside-in exposure report.
+- **[Websites & Apps](https://we-are-resilience.com/services/websites-and-apps)** — marketing sites and customer apps designed around the business, then looked after by the same engineer who scoped the work.
+- **[Software & AI Automation](https://we-are-resilience.com/services/agentic-ai)** — agents for customers, bookings, management, and finances, managed every day. We do not move or hold money, and we do not promise a performance figure.
+- **[Automated Marketing](https://we-are-resilience.com/services/search-and-growth)** — leads, engagements, answer engines, technical SEO, and citations. No lead count, no ranking promise, no third-party pixel.
+- **[Personal Data Removal](https://we-are-resilience.com/services/personal-data-removal)** — personal information found and removed from people-search sites and data brokers, then re-scanned every month. We are not a law firm, and a judge decides.
 
 More disciplines are joining the practice in the months ahead.
 
 ## Engagement posture
 
-Engineering, advisory, and investigation only. Client work lives in private repositories. The public site is the source of record for offerings, terms, and contact.
+Engineering, and the work that stays after launch. Client work lives in private repositories. The public site is the source of record for offerings, terms, and contact.
 
-**Reach** · Miami · United Arab Emirates · Worldwide
-
-**Constituencies** · [Attorneys](https://we-are-resilience.com/for-attorneys) · [Law enforcement](https://we-are-resilience.com/for-law-enforcement)
+**Reach** · Miami · United States · Serving worldwide
 
 **Contact** · [info@we-are-resilience.com](mailto:info@we-are-resilience.com)
