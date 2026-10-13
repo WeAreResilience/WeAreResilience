@@ -17,6 +17,7 @@ I build custom software, web apps, AI agents and on-chain systems, and I contrib
 - **AI agents and automation:** agents for support, bookings, operations and reporting.
 - **On-chain systems:** smart contracts and blockchain integrations.
 - **A business operating system in production:** my company runs on a back office I built: clients, projects, contracts, invoicing, revenue, scheduling, email campaigns, analytics and a client portal in one dashboard. It integrates Stripe payments, Mercury banking, Resend email, Supabase and Vercel, and its own MCP server lets AI agents securely run bookings, outreach and casework.
+- **Client-facing by design:** a client portal with real-time project progress, an AI front desk that answers only from published pricing, and a case manager for personal data removal.
 - **Built for safety:** two-factor admin sign-in, an audited kill switch on outbound email, and rate-limited, deduplicated outreach. Typecheck, lint and a large test suite gate every change.
 - **Detail you can feel:** I hold every screen to a premium standard. Spacing, wording placement, color, transparency and widget layout all have to work together, and I catch the scroll jitter, blur and layout shift most people never see.
 
