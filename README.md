@@ -24,6 +24,8 @@ More disciplines are joining the practice in the months ahead.
 
 Engineering, and the work that stays after launch. Client work lives in private repositories. The public site is the source of record for offerings, terms, and contact.
 
+**Open source** · Merged into anthropics/claude-code-action: [#1702](https://github.com/anthropics/claude-code-action/pull/1702), [#1704](https://github.com/anthropics/claude-code-action/pull/1704)
+
 **Reach** · Miami · United States · Serving worldwide
 
 **Contact** · [info@we-are-resilience.com](mailto:info@we-are-resilience.com)
