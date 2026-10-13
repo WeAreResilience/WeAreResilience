@@ -1,7 +1,7 @@
 # RESILIENCE Agentic Solutions
 
 <p align="center">
-  <img src="https://we-are-resilience.com/opengraph-image" alt="RESILIENCE Agentic Solutions" width="100%">
+  <img src="assets/github-banner.png" alt="RESILIENCE Agentic Solutions" width="100%">
 </p>
 
 **Written with you. We stay on it. Built to endure.**
