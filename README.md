@@ -4,7 +4,7 @@
   <img src="assets/github-banner.png" alt="RESILIENCE Agentic Solutions" width="100%">
 </p>
 
-**Senior engineering, built to endure.** Miami-based, working worldwide. Available for contract work.
+**Senior engineering, built to endure.** Based in Miami and Abu Dhabi, working with clients and collaborators worldwide. Available for contract work.
 
 I build custom software, web apps, AI agents and on-chain systems, and I contribute to open-source projects across AI, developer tools and blockchain. Security is part of the build from day one.
 
