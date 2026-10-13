@@ -16,6 +16,9 @@ I build custom software, web apps, AI agents and on-chain systems, and I contrib
 - **Web and mobile apps:** product sites and customer apps, maintained by the engineer who built them.
 - **AI agents and automation:** agents for support, bookings, operations and reporting.
 - **On-chain systems:** smart contracts and blockchain integrations.
+- **A business operating system in production:** my company runs on a back office I built: clients, projects, contracts, invoicing, revenue, scheduling, email campaigns, analytics and a client portal in one dashboard. It integrates Stripe payments, Mercury banking, Resend email, Supabase and Vercel, and its own MCP server lets AI agents securely run bookings, outreach and casework.
+- **Built for safety:** two-factor admin sign-in, an audited kill switch on outbound email, and rate-limited, deduplicated outreach. Typecheck, lint and a large test suite gate every change.
+- **Detail you can feel:** I catch the scroll jitter, blur while scrolling, layout shift and animation stutter most people miss, and I fix them before they ship.
 
 ## Open source
 
