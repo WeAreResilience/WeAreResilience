@@ -23,6 +23,8 @@ I build custom software, web apps, AI agents and on-chain systems, and I contrib
 
 ## Open source
 
+Full track record: [we-are-resilience.com/open-source](https://we-are-resilience.com/open-source)
+
 **Merged**
 - anthropics/claude-code-action: [#1702](https://github.com/anthropics/claude-code-action/pull/1702), [#1704](https://github.com/anthropics/claude-code-action/pull/1704)
 
