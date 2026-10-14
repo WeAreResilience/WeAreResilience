@@ -24,10 +24,10 @@ I build custom software, web apps, AI agents and on-chain systems, and I contrib
 ## Open source
 
 **Merged**
-- anthropics/claude-code-action: [#1702](https://github.com/anthropics/claude-code-action/pull/1702), [#1704](https://github.com/anthropics/claude-code-action/pull/1704)
+- anthropics/claude-code-action: [#1704](https://github.com/anthropics/claude-code-action/pull/1704), [#1702](https://github.com/anthropics/claude-code-action/pull/1702)
 
 **In review**
-- anthropics/buffa [#713](https://github.com/anthropics/buffa/pull/713) · microsoft/TypeChat [#458](https://github.com/microsoft/TypeChat/pull/458) · microsoft/mcp [#3936](https://github.com/microsoft/mcp/pull/3936) · NVIDIA/gpu-operator [#3076](https://github.com/NVIDIA/gpu-operator/pull/3076) · NVIDIA/dcgm-exporter [#758](https://github.com/NVIDIA/dcgm-exporter/pull/758) · awslabs/ferret-scan [#760](https://github.com/awslabs/ferret-scan/pull/760) · OpenZeppelin/compact-contracts [#1121](https://github.com/OpenZeppelin/compact-contracts/pull/1121)
+- NVIDIA/dcgm-exporter: [#758](https://github.com/NVIDIA/dcgm-exporter/pull/758) · NVIDIA/gpu-operator: [#3076](https://github.com/NVIDIA/gpu-operator/pull/3076) · OpenZeppelin/compact-contracts: [#1121](https://github.com/OpenZeppelin/compact-contracts/pull/1121) · anthropics/buffa: [#713](https://github.com/anthropics/buffa/pull/713) · anthropics/claude-code-action: [#1703](https://github.com/anthropics/claude-code-action/pull/1703) · awslabs/ferret-scan: [#760](https://github.com/awslabs/ferret-scan/pull/760) · microsoft/TypeChat: [#458](https://github.com/microsoft/TypeChat/pull/458) · microsoft/mcp: [#3936](https://github.com/microsoft/mcp/pull/3936)
 
 Client work lives in private repositories.
 
