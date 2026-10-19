@@ -6,7 +6,7 @@
 
 I'm David Billiot, founder of RESILIENCE Agentic Solutions. **Senior engineering, built to endure.** Based in Miami and Abu Dhabi, working with clients and collaborators worldwide. Available for contract work.
 
-I build custom software, web apps, AI agents and on-chain systems, and I contribute to open-source projects across AI, developer tools and blockchain. Security is part of the build from day one.
+I build custom software, web apps and AI agents, and I contribute to open-source projects across AI, developer tools and blockchain. Security is part of the build from day one.
 
 [we-are-resilience.com](https://we-are-resilience.com) · [Services](https://we-are-resilience.com/services) · [Work](https://we-are-resilience.com/work) · [Contact](https://we-are-resilience.com/contact)
 
@@ -15,7 +15,6 @@ I build custom software, web apps, AI agents and on-chain systems, and I contrib
 - **Custom software:** internal tools, APIs and integrations, plus audits of apps already in production.
 - **Web and mobile apps:** product sites and customer apps, maintained by the engineer who built them.
 - **AI agents and automation:** agents for support, bookings and the repeated work on a shift.
-- **On-chain systems:** smart contracts and blockchain integrations.
 - **Security reviews:** exposure reports and assurance for sites, software and agents already live. Testing starts only after the scope is signed.
 - **Personal data removal:** people-search listings taken down, with a written record of where a name was found.
 - **Detail you can feel:** I hold every screen to a premium standard. Spacing, wording, color and layout have to work together, and I catch the scroll jitter, blur and layout shift most people never see.
