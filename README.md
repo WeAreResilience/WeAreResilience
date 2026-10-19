@@ -4,7 +4,7 @@
   <img src="assets/github-banner.png" alt="RESILIENCE Agentic Solutions" width="100%">
 </p>
 
-I'm David Billiot, founder of RESILIENCE Agentic Solutions. **Senior engineering, built to endure.** Transparency builds credibility: you see the work as it happens, and every claim is backed by shipped code. Based in Miami and Abu Dhabi, working with clients and collaborators worldwide. Available for contract work.
+I'm David Billiot, founder of RESILIENCE Agentic Solutions. **Senior engineering, built to endure.** Based in Miami and Abu Dhabi, working with clients and collaborators worldwide. Available for contract work.
 
 I build custom software, web apps, AI agents and on-chain systems, and I contribute to open-source projects across AI, developer tools and blockchain. Security is part of the build from day one.
 
@@ -12,14 +12,13 @@ I build custom software, web apps, AI agents and on-chain systems, and I contrib
 
 ## What I build
 
-- **Custom software:** internal tools, APIs, workflows and integrations, plus audits of apps already in production.
+- **Custom software:** internal tools, APIs and integrations, plus audits of apps already in production.
 - **Web and mobile apps:** product sites and customer apps, maintained by the engineer who built them.
-- **AI agents and automation:** agents for support, bookings, operations and reporting.
+- **AI agents and automation:** agents for support, bookings and the repeated work on a shift.
 - **On-chain systems:** smart contracts and blockchain integrations.
-- **A business operating system in production:** my company runs on a back office I built: clients, projects, contracts, invoicing, revenue, scheduling, email campaigns, analytics and a client portal in one dashboard. It integrates Stripe payments, Mercury banking, Resend email, Supabase and Vercel, and its own MCP server lets AI agents securely run bookings, outreach and casework.
-- **Client-facing by design:** a client portal with real-time project progress, an AI front desk that answers only from published pricing, and a case manager for personal data removal.
-- **Built for safety:** two-factor admin sign-in, an audited kill switch on outbound email, and rate-limited, deduplicated outreach. Typecheck, lint and a large test suite gate every change.
-- **Detail you can feel:** I hold every screen to a premium standard. Spacing, wording placement, color, transparency and widget layout all have to work together, and I catch the scroll jitter, blur and layout shift most people never see.
+- **Security reviews:** exposure reports and assurance for sites, software and agents already live. Testing starts only after the scope is signed.
+- **Personal data removal:** people-search listings taken down, with a written record of where a name was found.
+- **Detail you can feel:** I hold every screen to a premium standard. Spacing, wording, color and layout have to work together, and I catch the scroll jitter, blur and layout shift most people never see.
 
 ## Open source
 

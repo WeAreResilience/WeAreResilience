@@ -1,5 +1,3 @@
-<!-- STATUS: published Oct 19, 2026 (The Dill approved all 5 case studies). -->
-
 # Query-string secrets in AWS Labs ferret-scan
 
 Problem: ferret-scan, AWS Labs' secret scanner, reported the wrong value for unquoted secrets in URLs: in `?token=<v1>&next=<v2>` it captured `<v1>&next=<v2>`, which then fed the finding hash, `--show-match` output and suppressions (issue #758). Fix: when the key is itself a query-string parameter, the matched span is split at its `&key=` separators so each parameter's value is matched on its own, in the same single pass and linear time; values elsewhere, including passwords that contain `&x=`, are unchanged. Result: merged on Oct 15, 2026. [PR #760](https://github.com/awslabs/ferret-scan/pull/760)
