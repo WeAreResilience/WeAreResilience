@@ -1,0 +1,5 @@
+<!-- STATUS: published Oct 19, 2026 (The Dill approved all 5 case studies). -->
+
+# Docs and error-message fixes in Anthropic's buffa
+
+Problem: issue #709 in buffa, Anthropic's Rust Protocol Buffers library, listed a set of documentation gaps, an unclear `MessageSet` error message and the wrong protoc version for edition 2024 across several files. Fix: one PR applied the whole checklist: new rustdoc on `UnknownFields` impls, clearer guide and `PoolError` docs, a reworded error message with its test and changelog fragment, a renamed test, and the protoc version corrected to v32 everywhere it appeared. Result: merged on Oct 14, 2026. [PR #713](https://github.com/anthropics/buffa/pull/713)

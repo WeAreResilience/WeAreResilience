@@ -1,0 +1,5 @@
+<!-- STATUS: published Oct 19, 2026 (The Dill approved all 5 case studies). -->
+
+# Keeping long content inside a GridSpan in Astryx
+
+Problem: in Meta's Astryx design system, a field placed inside `GridSpan`, such as a Tokenizer holding a long token, grew past its grid cell and container instead of truncating, because the span's single implicit `auto` column never shrinks below its content's min-content width. Fix: one declaration, `grid-template-columns: minmax(0, 1fr)`, on `GridSpan`'s base style, so the column still fills the span but can no longer grow to fit its content, plus a Grid story for this case and a changeset. Result: merged on Oct 17, 2026. [PR #7528](https://github.com/facebook/astryx/pull/7528)

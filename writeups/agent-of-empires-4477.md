@@ -1,0 +1,5 @@
+<!-- STATUS: published Oct 19, 2026 (The Dill approved all 5 case studies). -->
+
+# Long notice timeouts in agent-of-empires
+
+Problem: in agent-of-empires, a large `acp.notice_timeout_secs` value made info and warning notices in the web UI disappear almost at once, because browsers treat a `setTimeout` delay above 2^31 - 1 ms as zero (issue #4475). Fix: the setting is now capped at 2147483 seconds so the settings UI rejects larger values, and the web timer clamps its delay to the browser limit, so configs saved before the cap still wait about 24.8 days instead of firing immediately; defaults and the terminal UI are unchanged. Result: merged on Oct 14, 2026. [PR #4477](https://github.com/agent-of-empires/agent-of-empires/pull/4477)
