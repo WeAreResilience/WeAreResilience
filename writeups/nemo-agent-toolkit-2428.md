@@ -1,0 +1,4 @@
+NVIDIA NeMo Agent Toolkit: three fixes merged (Oct 21-22, 2026)
+- Missing dependency (#2386): `nat info components` and `nat uninstall` crashed with ModuleNotFoundError in a clean install because `packaging` was imported but not declared. Declared it in nvidia-nat-core and regenerated the lockfiles. https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2392
+- Silent CLI failures (#2411): `nat workflow create/reinstall/delete` swallowed errors and exited 0, and a failed create left a half-built directory behind. Failures now exit non-zero and clean up. https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2426
+- Opaque model errors (#2378): when a backend rejected a per-request model override, the ReAct agent surfaced the provider's cryptic error; it now names the rejected model. https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2428
