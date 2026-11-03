@@ -12,12 +12,16 @@ I build custom software, web apps and AI agents, and I contribute to open-source
 
 ## What I build
 
-- **Custom software:** internal tools, APIs and integrations, plus audits of apps already in production.
-- **Web and mobile apps:** product sites and customer apps, maintained by the engineer who built them.
-- **AI agents and automation:** agents for support, bookings and the repeated work on a shift.
+- **SaaS products:** I design and ship subscription software end to end, from Stripe Apps and Stripe Billing to Cloudflare Workers and Supabase back ends, with test coverage and CI in place before launch.
+- **Custom software:** internal tools, APIs and integrations engineered for long-term maintainability, plus technical audits of systems already in production.
+- **Web and mobile apps:** fast, accessible product sites and customer apps on Next.js, React and Tailwind, maintained by the engineer who built them.
+- **AI agents and automation:** production agents for support, bookings and repetitive operational work, informed by my merged contributions to NVIDIA's agent tooling.
+- **GPU and infrastructure:** merged fixes in NVIDIA's cudf and gpu-operator, written in Python and Go, and reviewed by NVIDIA maintainers.
 - **Security reviews:** exposure reports and assurance for sites, software and agents already live. Testing starts only after the scope is signed.
 - **Personal data removal:** people-search listings taken down, with a written record of where a name was found.
 - **Detail you can feel:** I hold every screen to a premium standard. Spacing, wording, color and layout have to work together, and I catch the scroll jitter, blur and layout shift most people never see.
+
+**Stack:** TypeScript · Python · Go · Rust · SQL
 
 ## Open source
 
