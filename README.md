@@ -4,9 +4,9 @@
   <img src="assets/github-banner.png" alt="RESILIENCE Agentic Solutions" width="100%">
 </p>
 
-I'm David Billiot, founder of RESILIENCE Agentic Solutions. **Senior engineering, built to endure.** Based in Miami and Abu Dhabi, working with clients and collaborators worldwide. Available for contract work.
+I'm David Billiot, founder of RESILIENCE Agentic Solutions. **Senior engineering, built to endure.** I design and ship production SaaS, web apps and AI agents, and my code is merged upstream at NVIDIA, Anthropic, Meta and Microsoft.
 
-I build custom software, web apps and AI agents, and I contribute to open-source projects across AI, GPU computing and developer tools. Security is part of the build from day one.
+Based in Miami and Abu Dhabi, working with clients worldwide. Security is part of the build from day one. Available for remote contract work.
 
 [we-are-resilience.com](https://we-are-resilience.com) · [Services](https://we-are-resilience.com/services) · [Work](https://we-are-resilience.com/work) · [Contact](https://we-are-resilience.com/contact)
 
