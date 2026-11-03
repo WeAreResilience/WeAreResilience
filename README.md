@@ -6,7 +6,7 @@
 
 I'm David Billiot, founder of RESILIENCE Agentic Solutions. **Senior engineering, built to endure.** Based in Miami and Abu Dhabi, working with clients and collaborators worldwide. Available for contract work.
 
-I build custom software, web apps and AI agents, and I contribute to open-source projects across AI, developer tools and blockchain. Security is part of the build from day one.
+I build custom software, web apps and AI agents, and I contribute to open-source projects across AI, GPU computing and developer tools. Security is part of the build from day one.
 
 [we-are-resilience.com](https://we-are-resilience.com) · [Services](https://we-are-resilience.com/services) · [Work](https://we-are-resilience.com/work) · [Contact](https://we-are-resilience.com/contact)
 
@@ -23,11 +23,33 @@ I build custom software, web apps and AI agents, and I contribute to open-source
 
 Full track record: [we-are-resilience.com/open-source](https://we-are-resilience.com/open-source)
 
-**Merged**
-- NVIDIA/NeMo-Agent-Toolkit: [#2392](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2392), [#2426](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2426), [#2428](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2428) ([case study](writeups/nemo-agent-toolkit-2428.md)), [#2519](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2519) ([case study](writeups/nemo-agent-toolkit-2519.md)) · NVIDIA/cudf: [#24992](https://github.com/NVIDIA/cudf/pull/24992) · NVIDIA/gpu-operator: [#3076](https://github.com/NVIDIA/gpu-operator/pull/3076) · agent-of-empires/agent-of-empires: [#4477](https://github.com/agent-of-empires/agent-of-empires/pull/4477) ([case study](writeups/agent-of-empires-4477.md)), [#4772](https://github.com/agent-of-empires/agent-of-empires/pull/4772) · anthropics/buffa: [#713](https://github.com/anthropics/buffa/pull/713) ([case study](writeups/buffa-713.md)) · anthropics/claude-code-action: [#1702](https://github.com/anthropics/claude-code-action/pull/1702), [#1704](https://github.com/anthropics/claude-code-action/pull/1704) · awslabs/ferret-scan: [#760](https://github.com/awslabs/ferret-scan/pull/760) ([case study](writeups/ferret-scan-760.md)) · meta/astryx: [#7528](https://github.com/meta/astryx/pull/7528) ([case study](writeups/astryx-7528.md)) · meta/lexical: [#9396](https://github.com/meta/lexical/pull/9396) · microsoft/TypeChat: [#458](https://github.com/microsoft/TypeChat/pull/458) · paradigmxyz/reth: [#27899](https://github.com/paradigmxyz/reth/pull/27899) ([case study](writeups/reth-27899.md))
+### Merged
 
-**In review**
-- ChainSafe/lodestar: [#10383](https://github.com/ChainSafe/lodestar/pull/10383) · NVIDIA/cudf: [#24990](https://github.com/NVIDIA/cudf/pull/24990) · NVIDIA/dcgm-exporter: [#758](https://github.com/NVIDIA/dcgm-exporter/pull/758) · anthropics/claude-code-action: [#1902](https://github.com/anthropics/claude-code-action/pull/1902) · meta/astryx: [#9551](https://github.com/meta/astryx/pull/9551) · meta/stylex: [#1950](https://github.com/meta/stylex/pull/1950) · microsoft/mcp: [#3936](https://github.com/microsoft/mcp/pull/3936)
+| Organization | Project | Pull requests |
+| --- | --- | --- |
+| NVIDIA | [cudf](https://github.com/NVIDIA/cudf) | [#24992](https://github.com/NVIDIA/cudf/pull/24992) |
+| NVIDIA | [gpu-operator](https://github.com/NVIDIA/gpu-operator) | [#3076](https://github.com/NVIDIA/gpu-operator/pull/3076) |
+| NVIDIA | [NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [#2392](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2392) · [#2426](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2426) · [#2428](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2428) ([case study](writeups/nemo-agent-toolkit-2428.md)) · [#2519](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2519) ([case study](writeups/nemo-agent-toolkit-2519.md)) |
+| Anthropic | [claude-code-action](https://github.com/anthropics/claude-code-action) | [#1702](https://github.com/anthropics/claude-code-action/pull/1702) · [#1704](https://github.com/anthropics/claude-code-action/pull/1704) |
+| Anthropic | [buffa](https://github.com/anthropics/buffa) | [#713](https://github.com/anthropics/buffa/pull/713) ([case study](writeups/buffa-713.md)) |
+| Meta | [astryx](https://github.com/meta/astryx) | [#7528](https://github.com/meta/astryx/pull/7528) ([case study](writeups/astryx-7528.md)) |
+| Meta | [lexical](https://github.com/meta/lexical) | [#9396](https://github.com/meta/lexical/pull/9396) |
+| Microsoft | [TypeChat](https://github.com/microsoft/TypeChat) | [#458](https://github.com/microsoft/TypeChat/pull/458) |
+| AWS Labs | [ferret-scan](https://github.com/awslabs/ferret-scan) | [#760](https://github.com/awslabs/ferret-scan/pull/760) ([case study](writeups/ferret-scan-760.md)) |
+| Paradigm | [reth](https://github.com/paradigmxyz/reth) | [#27899](https://github.com/paradigmxyz/reth/pull/27899) ([case study](writeups/reth-27899.md)) |
+| agent-of-empires | [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) | [#4477](https://github.com/agent-of-empires/agent-of-empires/pull/4477) ([case study](writeups/agent-of-empires-4477.md)) · [#4772](https://github.com/agent-of-empires/agent-of-empires/pull/4772) |
+
+### In review
+
+| Organization | Project | Pull requests |
+| --- | --- | --- |
+| NVIDIA | [cudf](https://github.com/NVIDIA/cudf) | [#24990](https://github.com/NVIDIA/cudf/pull/24990) |
+| NVIDIA | [dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) | [#758](https://github.com/NVIDIA/dcgm-exporter/pull/758) |
+| Anthropic | [claude-code-action](https://github.com/anthropics/claude-code-action) | [#1902](https://github.com/anthropics/claude-code-action/pull/1902) |
+| Meta | [astryx](https://github.com/meta/astryx) | [#9551](https://github.com/meta/astryx/pull/9551) |
+| Meta | [stylex](https://github.com/meta/stylex) | [#1950](https://github.com/meta/stylex/pull/1950) |
+| Microsoft | [mcp](https://github.com/microsoft/mcp) | [#3936](https://github.com/microsoft/mcp/pull/3936) |
+| ChainSafe | [lodestar](https://github.com/ChainSafe/lodestar) | [#10383](https://github.com/ChainSafe/lodestar/pull/10383) |
 
 Client work lives in private repositories.
 
