@@ -21,7 +21,19 @@ Based in Miami and Abu Dhabi, working with clients worldwide. Security is part o
 - **Personal data removal:** people-search listings taken down, with a written record of where a name was found.
 - **Detail you can feel:** I hold every screen to a premium standard. Spacing, wording, color and layout have to work together, and I catch the scroll jitter, blur and layout shift most people never see.
 
-**Stack:** TypeScript · Python · Go · Rust · SQL
+## Tech stack
+
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, Go, Rust, SQL / PL/pgSQL, Bash, CSS |
+| Frontend | Next.js (App Router), React, Tailwind CSS, Radix UI / shadcn, Motion, StyleX, Lexical, TipTap |
+| Backend & data | Supabase (Postgres, Auth, RLS), PostgreSQL, Drizzle ORM, Zod, Upstash Redis, REST APIs |
+| Cloud & infrastructure | Vercel, Cloudflare Workers (Queues, Cron, Wrangler), Docker, Kubernetes GPU operators |
+| Payments & email | Stripe Billing, Stripe Apps, Resend, React Email, Web Push |
+| AI & agents | Multi-agent systems, Model Context Protocol (MCP), NVIDIA NeMo Agent Toolkit, Claude Code Action |
+| Testing & quality | Playwright, axe accessibility, Vitest, Testing Library, Jest, ESLint, Prettier |
+| DevOps & observability | GitHub Actions, Dependabot, Sentry, PostHog, pnpm workspaces |
+| Security | App security reviews, secret redaction, auth hardening, Cloudflare Turnstile |
 
 ## Open source
 
