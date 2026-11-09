@@ -4,22 +4,25 @@
   <img src="assets/github-banner.png" alt="RESILIENCE Agentic Solutions" width="100%">
 </p>
 
-I'm David Billiot, founder of RESILIENCE Agentic Solutions. **Senior engineering, built to endure.** I design and ship production SaaS, web apps and AI agents, and my code is merged upstream at NVIDIA, Anthropic, Meta and Microsoft.
+I'm David Billiot, founder of RESILIENCE Agentic Solutions. I build full-stack applications, backend systems, and AI automation, with experience in cloud infrastructure, security reviews, and smart-contract development. I value reliable software, thoughtful interfaces, and contributing useful work to open source.
 
-Based in Miami and Abu Dhabi, working with clients worldwide. Security is part of the build from day one. Available for remote contract work.
+Based in Miami and Abu Dhabi, working with clients worldwide.
 
-[we-are-resilience.com](https://we-are-resilience.com) · [Services](https://we-are-resilience.com/services) · [Work](https://we-are-resilience.com/work) · [Contact](https://we-are-resilience.com/contact)
+[we-are-resilience.com](https://we-are-resilience.com)
 
 ## What I build
 
-- **SaaS products:** I design and ship subscription software end to end, from Stripe Apps and Stripe Billing to Cloudflare Workers and Supabase back ends, with test coverage and CI in place before launch.
-- **Custom software:** internal tools, APIs and integrations engineered for long-term maintainability, plus technical audits of systems already in production.
-- **Web and mobile apps:** fast, accessible product sites and customer apps on Next.js, React and Tailwind, maintained by the engineer who built them.
-- **AI agents and automation:** production agents for support, bookings and repetitive operational work, informed by my merged contributions to NVIDIA's agent tooling.
-- **GPU and infrastructure:** merged fixes in NVIDIA's cudf and gpu-operator, written in Python and Go, and reviewed by NVIDIA maintainers.
-- **Security reviews:** exposure reports and assurance for sites, software and agents already live. Testing starts only after the scope is signed.
-- **Personal data removal:** people-search listings taken down, with a written record of where a name was found.
-- **Detail you can feel:** I hold every screen to a premium standard. Spacing, wording, color and layout have to work together, and I catch the scroll jitter, blur and layout shift most people never see.
+- **Software and SaaS:** Subscription products and custom software, from the interface through the API, with tests and CI included.
+- **Backend systems:** Internal tools, APIs, and integrations, including Supabase and PostgreSQL, and review of systems already in production.
+- **Payments:** Stripe Billing and Stripe Apps.
+- **Web and mobile apps:** Product sites and customer apps on Next.js, React, and Tailwind, including accessibility checks.
+- **AI agents and automation:** Agents for support, bookings, and other repeated operational work.
+- **Cloud infrastructure:** Vercel, Cloudflare Workers, and Docker.
+- **GPU:** Python and Go work on GPU data processing and Kubernetes GPU operators.
+- **Security reviews:** Reviews of sites, software, and agents already live. Testing starts only after the scope is signed.
+- **Interfaces:** Spacing, wording, color, and layout, including scroll behavior, blur, and layout shift.
+- **Personal data removal:** People-search listings taken down, with a written record of where a name was found.
+- **Blockchain:** experience with smart-contract development and Ethereum and Solana tooling.
 
 ## Tech stack
 
@@ -38,9 +41,6 @@ Based in Miami and Abu Dhabi, working with clients worldwide. Security is part o
 ## Open source
 
 Full track record: [we-are-resilience.com/open-source](https://we-are-resilience.com/open-source)
-
-> **Featured** · [NVIDIA/cudf #24992](https://github.com/NVIDIA/cudf/pull/24992): *Report non-literal str.slice offsets accurately in cudf-polars*
-> Approved by NVIDIA maintainer [@TomAugspurger](https://github.com/TomAugspurger) and merged on November 3, 2026.
 
 ### Merged
 
@@ -88,4 +88,4 @@ Client work lives in private repositories.
 
 ## Contact
 
-[info@we-are-resilience.com](mailto:info@we-are-resilience.com) · [Book a call](https://we-are-resilience.com/contact)
+[info@we-are-resilience.com](mailto:info@we-are-resilience.com) · [Contact](https://we-are-resilience.com/contact)
