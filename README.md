@@ -59,7 +59,7 @@ Full track record: [we-are-resilience.com/open-source](https://we-are-resilience
 | --- | --- | --- |
 | agent-of-empires | [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) | [#4477](https://github.com/agent-of-empires/agent-of-empires/pull/4477) ([case study](writeups/agent-of-empires-4477.md)) · [#4772](https://github.com/agent-of-empires/agent-of-empires/pull/4772) |
 | AWS Labs | [ferret-scan](https://github.com/awslabs/ferret-scan) | [#760](https://github.com/awslabs/ferret-scan/pull/760) ([case study](writeups/ferret-scan-760.md)) |
-| Meta | [astryx](https://github.com/meta/astryx) | [#7528](https://github.com/meta/astryx/pull/7528) ([case study](writeups/astryx-7528.md)) |
+| Meta | [astryx](https://github.com/meta/astryx) | [#7528](https://github.com/meta/astryx/pull/7528) ([case study](writeups/astryx-7528.md)) · [#9551](https://github.com/meta/astryx/pull/9551) |
 | Meta | [lexical](https://github.com/meta/lexical) | [#9396](https://github.com/meta/lexical/pull/9396) |
 | Microsoft | [TypeChat](https://github.com/microsoft/TypeChat) | [#458](https://github.com/microsoft/TypeChat/pull/458) |
 | Paradigm | [reth](https://github.com/paradigmxyz/reth) | [#27899](https://github.com/paradigmxyz/reth/pull/27899) ([case study](writeups/reth-27899.md)) |
@@ -71,7 +71,6 @@ Full track record: [we-are-resilience.com/open-source](https://we-are-resilience
 | Organization | Project | Pull requests |
 | --- | --- | --- |
 | NVIDIA | [cudf](https://github.com/NVIDIA/cudf) | [#24990](https://github.com/NVIDIA/cudf/pull/24990) |
-| NVIDIA | [dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) | [#758](https://github.com/NVIDIA/dcgm-exporter/pull/758) |
 | Anthropic | [claude-code-action](https://github.com/anthropics/claude-code-action) | [#1902](https://github.com/anthropics/claude-code-action/pull/1902) |
 
 <details>
@@ -80,7 +79,6 @@ Full track record: [we-are-resilience.com/open-source](https://we-are-resilience
 | Organization | Project | Pull requests |
 | --- | --- | --- |
 | ChainSafe | [lodestar](https://github.com/ChainSafe/lodestar) | [#10383](https://github.com/ChainSafe/lodestar/pull/10383) |
-| Meta | [astryx](https://github.com/meta/astryx) | [#9551](https://github.com/meta/astryx/pull/9551) |
 | Meta | [stylex](https://github.com/meta/stylex) | [#1950](https://github.com/meta/stylex/pull/1950) |
 | Microsoft | [mcp](https://github.com/microsoft/mcp) | [#3936](https://github.com/microsoft/mcp/pull/3936) |
 
