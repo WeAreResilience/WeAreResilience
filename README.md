@@ -6,7 +6,7 @@
 
 I'm David Billiot, founder of RESILIENCE Agentic Solutions. I build full-stack applications, backend systems, and AI automation, with experience in cloud infrastructure, security reviews, and smart-contract development. I value reliable software, thoughtful interfaces, and contributing useful work to open source.
 
-Based in Miami and Abu Dhabi, working with clients worldwide.
+Based in Tampa and Abu Dhabi, working with clients worldwide.
 
 [we-are-resilience.com](https://we-are-resilience.com)
 
