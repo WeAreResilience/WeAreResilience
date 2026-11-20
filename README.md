@@ -46,6 +46,7 @@ Full track record: [we-are-resilience.com/open-source](https://we-are-resilience
 
 | Organization | Project | Pull requests |
 | --- | --- | --- |
+| NVIDIA | [cudaq-pulse](https://github.com/NVIDIA/cudaq-pulse) | [#120](https://github.com/NVIDIA/cudaq-pulse/pull/120) |
 | NVIDIA | [cudf](https://github.com/NVIDIA/cudf) | [#24990](https://github.com/NVIDIA/cudf/pull/24990) · [#24992](https://github.com/NVIDIA/cudf/pull/24992) |
 | NVIDIA | [gpu-operator](https://github.com/NVIDIA/gpu-operator) | [#3076](https://github.com/NVIDIA/gpu-operator/pull/3076) |
 | NVIDIA | [NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [#2392](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2392) · [#2426](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2426) · [#2428](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2428) ([case study](writeups/nemo-agent-toolkit-2428.md)) · [#2519](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2519) ([case study](writeups/nemo-agent-toolkit-2519.md)) |
@@ -72,7 +73,6 @@ Full track record: [we-are-resilience.com/open-source](https://we-are-resilience
 
 | Organization | Project | Pull requests |
 | --- | --- | --- |
-| NVIDIA | [cudaq-pulse](https://github.com/NVIDIA/cudaq-pulse) | [#120](https://github.com/NVIDIA/cudaq-pulse/pull/120) |
 | Anthropic | [claude-code-action](https://github.com/anthropics/claude-code-action) | [#1902](https://github.com/anthropics/claude-code-action/pull/1902) |
 
 <details>
